@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suchar</h1>
-<h3 align="center">Beginner front-end developer from Poland</h3>
+<h3 align="center">Beginner Front-End Developer from Poland</h3>
+
+- 🌱 I’m currently learning **javascript**
 
 - 📫 How to reach me **filip.oleksiak@icloud.com**
+
+- ⚡ Fun fact **I love dry rice with chicken**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
